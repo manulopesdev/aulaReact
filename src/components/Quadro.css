@@ -1,0 +1,26 @@
+.Q-1{
+    align-items: center;
+    width: 20%;
+    height: auto;
+}
+
+img{
+    width: 200px;
+    height: auto;
+}
+
+h2 {
+    font-size: 14px;
+    font-weight: bolder;
+}
+
+p{
+    font-size: small;
+    font-style: italic;
+}
+
+.flexDiv{
+    display: flex;
+    align-items: space-around;
+    gap: 150px;
+}
